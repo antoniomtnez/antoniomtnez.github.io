@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "mx.soltein.commercialapp",
+    "sha256_cert_fingerprints":
+    ["87:51:98:20:8D:73:94:0B:3A:A6:1B:84:F1:07:A5:87:11:4C:26:2E:E1:74:46:41:C4:B5:EE:75:3C:AE:74:DC"]
+  }
+}]
